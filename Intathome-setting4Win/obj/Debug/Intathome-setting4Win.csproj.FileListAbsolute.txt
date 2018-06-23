@@ -1,0 +1,15 @@
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\bin\Debug\Intathome-setting4Win.exe.config
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\bin\Debug\Intathome-setting4Win.exe
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\bin\Debug\Intathome-setting4Win.pdb
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\MainWindow.g.cs
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\App.g.cs
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win_MarkupCompile.cache
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win_MarkupCompile.lref
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\MainWindow.baml
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win.g.resources
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome_setting4Win.Properties.Resources.resources
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win.csproj.GenerateResource.cache
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win.csproj.CoreCompileInputs.cache
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win.exe
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win.pdb
+C:\Users\fujis\source\repos\Intathome-setting4Win\Intathome-setting4Win\obj\Debug\Intathome-setting4Win.csprojAssemblyReference.cache
